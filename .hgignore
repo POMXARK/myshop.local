@@ -1,0 +1,5 @@
+.hgignore
+misc/
+tmp/
+library/Smarty/
+library/Smarty-3.1.6.zip

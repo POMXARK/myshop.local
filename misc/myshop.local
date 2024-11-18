@@ -1,0 +1,5 @@
+<VirtualHost *:80>
+DocumentRoot /home/kwon/Web/www/myshop.local/www
+ServerName myshop.local
+ServerAlias www.myshop.local
+</VirtualHost>
